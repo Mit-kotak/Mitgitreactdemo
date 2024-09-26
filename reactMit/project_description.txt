@@ -1,0 +1,5 @@
+This is a demo React application created using Vite.
+The project serves as a basic template to explore React's
+component-based structure and Vite's fast development environment.
+It includes a simple component to demonstrate React functionality
+and integrates Git for version control, allowing seamless collaboration and deployment through GitHub.
